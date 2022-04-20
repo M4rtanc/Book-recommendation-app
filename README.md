@@ -29,3 +29,7 @@ and open `http://127.0.0.1:8080/` adress in your browser
 ## Usage
 
 Type ISBN into search box and click to *Recommend similar*. Please notice that repertoire of books if limited, so after invalid ISBN typing the list of possible ISNBs will appear.
+
+## Source of data about books, users and ratings (.csv files)
+
+`http://www2.informatik.uni-freiburg.de/~cziegler/BX/`
